@@ -14,7 +14,14 @@ Cargo.lock
 *.pdb
 
 /.idea
+.idea/
 
 /.vscode
+.vscode/
 
 /.DS_Store
+.DS_Store/
+
+# Added by cargo
+
+/target
