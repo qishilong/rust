@@ -19,7 +19,7 @@
 //     {
 //         let x = 5;
 //         let y = x;
-//         println!("{}", y)
+//         println!("{}", y);
 //     }
 
 //     {
@@ -41,7 +41,7 @@
 //     }
 // }
 
-// // 理解所有权与函数
+// 理解所有权与函数
 // fn main() {
 //     let s = String::from("hello"); // s 进入作用域
 //     takes_ownership(s); // s 的值移动到函数里
